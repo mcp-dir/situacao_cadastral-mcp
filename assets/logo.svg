@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Situação Cadastral">
+  <rect width="512" height="512" rx="96" fill="#FFFFFF"/>
+  <rect x="96" y="148" width="320" height="216" rx="28" fill="#0D9488"/>
+  <circle cx="180" cy="230" r="34" fill="#FFFFFF"/>
+  <path d="M138 314 a42 42 0 0 1 84 0 Z" fill="#FFFFFF"/>
+  <rect x="250" y="204" width="126" height="20" rx="10" fill="#FFFFFF"/>
+  <rect x="250" y="246" width="126" height="20" rx="10" fill="#99F6E4"/>
+  <rect x="250" y="288" width="86" height="20" rx="10" fill="#99F6E4"/>
+</svg>
